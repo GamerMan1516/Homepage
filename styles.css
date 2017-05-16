@@ -1,26 +1,37 @@
 body {
-	background-color: #aaaaaa;
+	background-color: #999999;
 }
 h1 {
-	color: #1d4196;
-	font-size: 60px;
+	color: #007711;
+	font-size: 65px;
 	font-weight: bold;
 	font-style: italic;
-	font-family: "Courier New";
+	font-family: 'Cormorant SC', serif;
 	text-decoration: underline;
 }
 .youtube {
-	margin-left: -10px;
-	margin-right: 75px;
+	margin-left: 20px;
+	margin-right: 45px;
+}
+.google {
+	margin-left: 15px;
 }
 .gamermanWebsite {
 	margin-left: 15px;
 	margin-right: 35px;
 }
+.humbleBundle {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.pandora {
+	margin-left: 55px;
+}
 .netflix {
-	margin-right: 25px;
+	margin-top: 10px;
+	margin-left: 15px;
+	margin-right: 10px;
 }
 .accuweather {
-	margin-left: 15px;
-	margin-right: 90px;
+	margin-left: 40px;
 }
