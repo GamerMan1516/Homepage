@@ -1,42 +1,59 @@
 body {
-	background-color: #999999;
+	background-color: #cc8844;
+}
+.thanksgiving {
+	height: 100px;
+	margin-bottom: -80px;
+	margin-left: 350px;
 }
 h1 {
 	margin-left: 10px;
-	color: #f95001;
-	font-size: 65px;
+	margin-bottom: 15px;
+	color: #9c2706;
+	font-size: 85px;
 	font-weight: bold;
-	font-style: italic;
-	font-family: 'Nosifer', cursive;
+	font-family: 'Yellowtail', cursive;
 	text-decoration: underline;
 }
 .youtube {
+	height: 100px;
 	margin-left: 20px;
-	margin-right: 45px;
 }
 .google {
+	height: 100px;
 	margin-left: 15px;
-}
-.gamermanWebsite {
-	margin-top: 10px;
-	margin-left: 15px;
-	margin-right: 35px;
 }
 .humbleBundle {
+	height: 100px;
 	margin-left: 20px;
 	margin-right: 20px;
 }
 .pandora {
-	margin-left: 55px;
+	height: 100px;
+	margin-top: 10px;
+	margin-left: 45px;
 }
 .twitch {
-	margin-top: 25px;
-	margin-left: 55px;
+	height: 100px;
+	margin-left: 50px;
 	margin-right: 40px;
 }
 .accuweather {
-	margin-left: 55px;
+	height: 100px;
+	margin-left: 40px;
 }
 .netflix {
-	margin-left: 40px;
+	height: 100px;
+	width: 160px;
+	margin-left: 30px;
+}
+.nws {
+	height: 100px;
+	margin-top: 20px;
+	margin-left: 50px;
+	margin-right: 10px;
+}
+.reddit {
+	height: 100px;
+	margin-left: 15px;
 }
