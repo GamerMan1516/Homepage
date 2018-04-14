@@ -4,22 +4,20 @@ a, body, header, h1, img, p {
 	border: 0;
 }
 body {
-	background-color:  #c7d0d9;
+	background-color:  #8fafe8;
 	text-align: center;
 }
 header .accessory {
 	height: 100px;
-	margin-bottom: -15px;
-	margin-left: 20px;
-	margin-top: 10px;
+	margin-top: 15px;
 }
 header h1 {
 	margin-left: 10px;
 	margin-bottom: 15px;
-	color:  #3e3846;
+	color:  #ECDB54;
 	font-size: 85px;
 	font-weight: bold;
-	font-family: 'Lobster', cursive;
+	font-family: 'Montez', cursive;
 	text-decoration: underline;
 }
 .links img {
