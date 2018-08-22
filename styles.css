@@ -10,9 +10,9 @@ body {
 header .accessory {
 	height: 100px;
 	margin-top: 15px;
+	margin-bottom: -10px;
 }
 header h1 {
-	margin-left: 10px;
 	margin-bottom: 15px;
 	color: 	#F4A460;
 	font-size: 85px;
