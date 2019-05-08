@@ -1,26 +1,29 @@
+
+/* Last Edited May 8 2019 */
+
 a, body, div, header, h1, img, p {
 	padding: 0;
 	margin: 0;
 	border: 0;
 }
 body {
-	background-color: #adbccd;
+	background-color: #7EB7E5;
 	text-align: center;
 }
 header .accessory {
 	height: 100px;
 	margin-top: 10px;
-	margin-bottom: -20px;
+	margin-bottom: -10px;
 }
 header h1 {
 	margin-bottom: 15px;
-	color: 	#0f1225;
+	color: #EFE176;
 	font-size: 80px;
 	font-weight: bold;
-	text-decoration: underline;
-	font-family: 'Charm', cursive;
+	font-style: italic;
 	/* text-decoration: underline; */
-	margin-bottom: -8px;
+	font-family: 'Sofia', cursive;
+	margin-bottom: -6px;
 }
 .links img {
 	width: 100px;
@@ -32,8 +35,8 @@ header h1 {
 .netflix {
 	margin-bottom: 15px;
 }
-.xfinity {
-	margin-bottom: 12px;
+.hulu {
+	margin-bottom: 20px;
 }
 .row1, .row2, .row3 {
 	padding-bottom: 10px;
