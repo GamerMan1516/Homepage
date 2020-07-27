@@ -1,5 +1,5 @@
 
-/* Last Edited May 8 2019 */
+/* Last Edited July 27 2020 */
 
 a, body, div, header, h1, img, p {
 	padding: 0;
@@ -7,22 +7,22 @@ a, body, div, header, h1, img, p {
 	border: 0;
 }
 body {
-	background-color: #7EB7E5;
+	background-color: #00BFFF;
 	text-align: center;
 }
 header .accessory {
 	height: 100px;
-	margin-top: 10px;
+	margin-top: 15px;
 	margin-bottom: -10px;
 }
 header h1 {
 	margin-bottom: 15px;
-	color: #EFE176;
+	color: #E7C496;
 	font-size: 80px;
 	font-weight: bold;
-	font-style: italic;
-	/* text-decoration: underline; */
-	font-family: 'Sofia', cursive;
+	/* font-style: italic; */
+	text-decoration: underline;
+	font-family: 'Norican', cursive;
 	margin-bottom: -6px;
 }
 .links img {
