@@ -1,6 +1,3 @@
-
-/* Last Edited July 27 2020 */
-
 a, body, div, header, h1, img, p {
 	padding: 0;
 	margin: 0;
@@ -8,6 +5,8 @@ a, body, div, header, h1, img, p {
 }
 body {
 	background-color: #00BFFF;
+	color: #E7C496;
+	font-family: 'Norican', cursive;
 	text-align: center;
 }
 header .accessory {
@@ -16,14 +15,18 @@ header .accessory {
 	margin-bottom: -10px;
 }
 header h1 {
-	margin-bottom: 15px;
-	color: #E7C496;
 	font-size: 80px;
 	font-weight: bold;
 	/* font-style: italic; */
 	text-decoration: underline;
-	font-family: 'Norican', cursive;
-	margin-bottom: -6px;
+	margin-bottom: -15px;
+}
+.links h1 {
+	margin-top: 15px;
+	margin-bottom: 15px;
+	font-size: 40px;
+	text-decoration: underline;
+	font-weight: bold;
 }
 .links img {
 	width: 100px;
@@ -37,7 +40,4 @@ header h1 {
 }
 .hulu {
 	margin-bottom: 20px;
-}
-.row1, .row2, .row3 {
-	padding-bottom: 10px;
 }
