@@ -32,12 +32,24 @@ header h1 {
 	width: 100px;
 	padding: 5px;
 }
-.youtube {
-	margin-bottom: 12px;
-}
-.netflix {
-	margin-bottom: 15px;
+.curiosityStream {
+	margin-bottom: 13px;
 }
 .hulu {
-	margin-bottom: 20px;
+	margin-bottom: 23px;
+}
+.netflix {
+	margin-bottom: 21px;
+}
+.twitch {
+	margin-bottom: -2px;
+}
+.youtube {
+	margin-bottom: 15px;
+}
+.accuweather {
+	margin-bottom: 5px;
+}
+.google_drive {
+	margin-bottom: 6px;
 }
