@@ -4,22 +4,22 @@ a, body, div, header, h1, img, p {
 	border: 0;
 }
 body {
-	background-color: #00BFFF;
-	color: #E7C496;
-	font-family: 'Norican', cursive;
+	background-color: #D1B894;
+	color: #E47A2E;
+	font-family: 'Petit Formal Script', cursive;
 	text-align: center;
 }
 header .accessory {
 	height: 100px;
 	margin-top: 15px;
-	margin-bottom: -10px;
+	/* margin-bottom: -10px; */
 }
 header h1 {
 	font-size: 80px;
 	font-weight: bold;
 	/* font-style: italic; */
 	text-decoration: underline;
-	margin-bottom: -15px;
+	/* margin-bottom: -15px; */
 }
 .links h1 {
 	margin-top: 15px;
